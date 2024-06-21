@@ -11,6 +11,8 @@
 
 ```
 ┌──(root㉿syr3)-[/home/kali]
-└─# 
+└─# ls
+
+[HelloWorld.txt](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program) [IntermediatePentestester.txt](https://tryhackme.com/p/SYR3)
 
 ```
