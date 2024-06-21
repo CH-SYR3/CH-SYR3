@@ -5,7 +5,7 @@
     
 </div>
 
-<script src="https://tryhackme.com/badge/2348071"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/SYR3.png" alt="TryHackMe">
 
 
 
