@@ -7,12 +7,17 @@
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/SYR3.png" alt="TryHackMe">
 
-
-
-```
+``
 ┌──(root㉿syr3)-[/home/kali]
+``
+\
+``
 └─# ls
+``
+\
+[HelloWorld.txt](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program)    [JR.Pentester.txt](https://tryhackme.com/p/SYR3)
 
-[HelloWorld.txt](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program) [IntermediatePentestester.txt](https://tryhackme.com/p/SYR3)
 
-```
+
+
+
