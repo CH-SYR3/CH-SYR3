@@ -16,8 +16,3 @@
 ``
 \
 [HelloWorld.txt](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program)    [JR.Pentester.txt](https://tryhackme.com/p/SYR3)
-
-
-
-
-
